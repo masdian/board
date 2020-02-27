@@ -4,3 +4,9 @@
   cols: 11
   description: Data kendaraan bermotor yang biasa dipakai
   type: table
+- path: iris
+  name: iris
+  rows: 150
+  cols: 5
+  description: The data about flower
+  type: table
